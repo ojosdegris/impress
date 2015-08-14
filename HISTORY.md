@@ -1,3 +1,19 @@
+0.1.338 / 2015-08-15
+==================
+
+  * Fixed security database detection error, issue #405
+
+0.1.337 / 2015-08-14
+==================
+
+  * impress.eventEmitter moved to api.impress, close #404
+  * Merged application.createScript and application.require, close #402
+
+0.1.336 / 2015-08-13
+==================
+
+  * Fixed state sync in cloud, close #388
+
 0.1.335 / 2015-08-12
 ==================
 
